@@ -44,6 +44,7 @@
 #import "SVGKLayeredImageView.h"
 #import "SVGKLayer.h"
 #import "TinySVGTextAreaElement.h"
+#import "CALayerExporter.h"
 
 #ifndef SVGKIT_LOG_CONTEXT
     #define SVGKIT_LOG_CONTEXT 556
